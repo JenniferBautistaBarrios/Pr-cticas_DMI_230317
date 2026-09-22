@@ -236,7 +236,7 @@ Esta actividad representa una introducción al desarrollo móvil y proporciona u
 <p align="center">
   🌸 <strong>Práctica 02 — Desarrollo Móvil Integral</strong> 🌸
   <br><br>
-  <a href="https://jenniferbautistabarrios.github.io/Practicas_DMI_230317/Practica02/arquitectura/index.html">
+  <a href="https://jenniferbautistabarrios.github.io/Pr-cticas_DMI_230317/Practica02/arquitectura/index.html">
     <img src="https://img.shields.io/badge/🏗️_Ver_Arquitectura_del_Proyecto-FF69B4?style=for-the-badge" alt="Ver arquitectura del proyecto"/>
   </a>
   <br><br>

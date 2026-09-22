@@ -15,4 +15,4 @@
 
 💗 **Total de prácticas registradas:** 2
 
-✨ *¡Seguimos aprendiendo y desarrollando nuevas habilidades!*
+✨ *¡Seguimos aprendiendo y desarrollando nuevas habilidades!*✨
